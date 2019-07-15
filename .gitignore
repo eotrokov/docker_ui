@@ -1,0 +1,9 @@
+[Oo]ut/
+**/packages/*
+[Oo]bj/
+**/.vs
+*.dll
+*.pdb
+[Bb]in/
+node_modules
+.idea/
